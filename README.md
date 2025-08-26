@@ -1,8 +1,8 @@
 # Student-Mental-Health
-In this case, we'll conduct statistical research to analyze how students' mental health can affect their academic performance, as measured by CGPA (Cumulative Grade Point Average). We'll use a dataset available on Kaggle that contains information on students' CGPA along with data on their sexuality, mental health, and treatment status.
+Neste caso, vamos realizar uma pesquisa estatística para analisar como a saúde mental dos estudantes pode afetar seu desempenho acadêmico, medido pelo CGPA (Cumulative Grade Point Average). Utilizaremos um conjunto de dados disponível no Kaggle que contém informações sobre o CGPA dos estudantes juntamente com dados sobre sua sexualidade, saúde mental, se faz algum tratamento etc.
 
-The objective of this activity is to perform two types of data exploration:
+O objetivo desta atividade é fazer dois tipos de explorações sob os dados:
 
-Enrich the dataset by gathering metadata such as dimensions, attribute types, and summary measures;
+enriquecer o conjunto de dados (dataset) com o levantamento de metadados como dimensão, tipos de atributos e medidas de resumo;
 
-Analyze the dataset using descriptive statistics (measures of central tendency, variability) and graphical methods to generate insights into the types of analyses that can be performed. Since this is the first time we've explored the data, some proposed analyses will be defined below to improve the focus of our studies. A case study will be defined and presented below.
+explorar analiticamente o dataset com o uso de estatística descritiva (medida de tendência central, variabilidade) e métodos gráficos para se ter ideias de tipos de análises que podem ser realizadas. Como aqui se trata da primeira exploração de dados, a seguir serão definidas algumas propostas de análises com a finalidade de tornar os estudos mais bem direcionados. Nesse sentido, um case de estudo será definido e apresentado a seguir.
